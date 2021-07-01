@@ -48,9 +48,8 @@ body {
   }
   
   .titulo-presentacion{
-    /*color: #400326;*/
     text-align: center;
-    font-family: 'Pacifico';
+    font-family: 'Arial';
   }
   .mi-presentacion li{
     list-style:none;
@@ -64,6 +63,33 @@ body {
     font-size: 20px;
     /*color: #400326;*/
   }
+
+
+  /*Contenido Carrusel*/
+.router1, .hobb-1, .ust-icon, .cisco-icon, .apicultura1, .checkmate1 {
+  width: 500px;
+  height: 200px;
+  margin: auto;
+  padding-top: 0px;
+}
+.tituloprincipal-experiencia, .titulo-hobby {
+  font-family: 'Arial';
+  text-align: center;
+  color: #681915;
+
+}
+.card-text, .card-subttitle{
+  text-align: center;
+}
+.checkmate1, .apicultura1, .hobb-1, .ust-icon, .cisco-icon, .router1{
+  max-width: 18rem;
+  color: #01004E;
+  border-color: #AD5B05;
+}
+.titulo-hobbys, .tituloprincipal-experiencia{
+color: #400326;
+}
+
   
   
   /*Contenido Mis Últimos Trabajos*/
