@@ -7,18 +7,18 @@ body {
     font-family: 'Barlow', sans-serif;
   }
   
-  /*barra navegacion*/
+  /*Contenido Barra de Navegacion*/
   .bg-dark {
     background-color: #2F072C !important;
   
-
   }
   .text-logo {
-    font-family: 'Pacifico';
-    font-size: 50px;
+    font-family: 'Arial';
+    font-size: 55px;
   
   }
-  /*header*/
+
+  /*Contenido Header*/
   .hero-section{
   background-size: cover;
   background-image: url("https://scontent.fzco2-1.fna.fbcdn.net/v/t31.18172-8/11942200_10206669458591383_7665465558054870834_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=7TxTjwSwQu4AX8rqTNn&_nc_ht=scontent.fzco2-1.fna&oh=1d3676eaeb19ee445691881103afcc2b&oe=60E29EE5");
@@ -37,19 +37,18 @@ body {
   
   }
   
-  
   .texto-header1{
   padding-top: 317px;
   }
   
-  /*contenido-quien soy-*/
-  #Quiensoy
+  /*Contenido Sobre mi*/
+  #Sobre-mi
   .margen-sup{
     margin-top: 50px;
   }
   
   .titulo-presentacion{
-    color: #400326;
+    /*color: #400326;*/
     text-align: center;
     font-family: 'Pacifico';
   }
@@ -63,28 +62,21 @@ body {
     margin-top: 30px;
     text-align: justify;
     font-size: 20px;
-    color: #400326;
+    /*color: #400326;*/
   }
   
   
-  /*linea divisora*/
-  .linea-div{
-    text-align: center;
-    width: 1000px;
-    margin: 50px;
+  /*Contenido Mis Últimos Trabajos*/
   
-  }
-  
-  /*Ultimos Trabajos*/
-  
-  #ultimos-trabajos{
-    background-color: #9D2824;
+  #mis-ultimos-trabajos {
+
+  background-color: #2F072C !important;
   }
   .titulo-trabajos{
-    color: #F3BB00;
+  color: #FFFF;
   text-align: center;
-  font-family: 'Pacifico';
-  text-decoration: underline;
+  font-family: 'Arial';
+  
   }
   
   .primeralinea, .segundalinea{
@@ -104,7 +96,7 @@ body {
     padding: 0;
   }
   
-  /*footer*/
+  /*Contenido Footer*/
   #redes-sociales{
     background-color: #2F072C;
     text-align: center;
@@ -116,7 +108,7 @@ body {
   
   }
   .mi-nombre{
-    font-family: 'Pacifico';
+    font-family: 'Arial';
     color: #ffffff;
     font-size: 60px;
   }

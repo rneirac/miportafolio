@@ -33,3 +33,5 @@ $(document).ready(function(){
   //Popover
   $('[data-toggle="popover"]').popover();
 });
+
+
