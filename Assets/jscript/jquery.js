@@ -31,6 +31,7 @@ $(document).ready(function(){
   })
 
   //Popover
+  $(function () {
   $('[data-toggle="popover"]').popover();
 });
 
