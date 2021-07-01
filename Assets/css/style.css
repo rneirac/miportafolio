@@ -1,0 +1,183 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Barlow', sans-serif;
+  }
+  
+  /*barra navegacion*/
+  .bg-dark {
+    background-color: #2F072C !important;
+  
+  
+  }
+  .text-logo{
+    font-family: 'Pacifico';
+    font-size: 50px;
+  
+  
+  }
+  /*header*/
+  .hero-section{
+  background-size: cover;
+  background-image: url("https://scontent.fzco2-1.fna.fbcdn.net/v/t31.18172-8/11942200_10206669458591383_7665465558054870834_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=7TxTjwSwQu4AX8rqTNn&_nc_ht=scontent.fzco2-1.fna&oh=1d3676eaeb19ee445691881103afcc2b&oe=60E29EE5");
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: center;
+  
+  }
+  .textos-header, .textos-header2{
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Berkshire Swash';
+  margin-left: 20px;
+  text-align: left;
+  
+  
+  }
+  
+  
+  .texto-header1{
+  padding-top: 317px;
+  }
+  
+  /*contenido-quien soy-*/
+  #Quiensoy
+  .margen-sup{
+    margin-top: 50px;
+  }
+  
+  .titulo-presentacion{
+    color: #400326;
+    text-align: center;
+    font-family: 'Pacifico';
+  }
+  .mi-presentacion li{
+    list-style:none;
+  }
+  .mi-presentacion{
+    margin-top: 20px;
+  }
+  .columna1, .columna2{
+    margin-top: 30px;
+    text-align: justify;
+    font-size: 20px;
+    color: #400326;
+  }
+  
+  
+  /*linea divisora*/
+  .linea-div{
+    text-align: center;
+    width: 1000px;
+    margin: 50px;
+  
+  }
+  
+  
+  /* Carrusel -Experiencia-hobby*/
+  .fono-icon, .front-icon, .plantas-hobby, .huerto-hobby, .graffiti-hobby, .newzeland-icon{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    padding-top: 10px;
+  }
+  .tituloprincipal-experiencia, .titulo-hobby{
+    font-family: 'Pacifico';
+    text-align: center;
+    color: #681915;
+    text-decoration: underline;
+  }
+  .card-text, .card-subttitle{
+    text-align: center;
+  }
+  .hobby-huerto, .graffity-hobby, .plant-hobby, .front1, .varios-empleos, .fono1{
+    max-width: 18rem;
+    color: #01004E;
+    border-color: #AD5B05;
+  }
+  .titulo-hobbys, .tituloprincipal-experiencia{
+  color: #400326;
+  }
+  
+  
+  /*Mujeres en Tech*/
+  #mujerestec{
+    margin: 50px;
+  }
+  
+  .tec-mujer{
+    text-align: center;
+  }
+  .mujeres-tecno{
+    width: 700px;
+    margin-top: 30px;
+  }
+  
+  .infor-mujeres{
+    color: #009C95;
+    font-family: 'Pacifico';
+    text-align: center;
+    text-decoration: underline;
+    }
+  
+    .boton-niñas{
+      text-align: center;
+      margin-top: 10px;
+    }
+  
+  /*ultimos trabajos*/
+  
+  #ultimos-trabajos{
+    background-color: #9D2824;
+  }
+  .titulo-trabajos{
+    color: #F3BB00;
+  text-align: center;
+  font-family: 'Pacifico';
+  text-decoration: underline;
+  }
+  
+  .primeralinea, .segundalinea{
+    margin-left: auto;
+  }
+  .mc, .iguana, .suricata, .cuppon, .ricomida {
+  max-width: 20rem;
+  margin: 30px;
+  }
+  .m-c, .igu-1, .suri-1, .cup-1, .rico-1{
+    text-align: center;
+  }
+  .tit-mc, .tit-iguana, .tit-suri, .tit-cupon, .tit-rico{
+    text-decoration: underline;
+  }
+  .rico-col{
+    padding: 0;
+  }
+  
+  /*footer*/
+  #redes-sociales{
+    background-color: #2F072C;
+    text-align: center;
+  }
+  .icono-1, .icono-2, .icono-3, .icono-4{
+    color: #ffffff;
+    text-align: right;
+    margin: 10px;
+  
+  }
+  .mi-nombre{
+    font-family: 'Pacifico';
+    color: #ffffff;
+    font-size: 60px;
+  }
+  .btn-secondary{
+    background-color: #009C95;
+    color: #ffffff;
+  border-color: #509F8C;
+  }
+  .card-text, .card-subttitle{
+    text-align: center;
+  }
