@@ -29,3 +29,7 @@ $(document).ready(function(){
   $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
+
+  //Popover
+  $('[data-toggle="popover"]').popover();
+});

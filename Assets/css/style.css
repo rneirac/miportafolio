@@ -11,12 +11,11 @@ body {
   .bg-dark {
     background-color: #2F072C !important;
   
-  
+
   }
-  .text-logo{
+  .text-logo {
     font-family: 'Pacifico';
     font-size: 50px;
-  
   
   }
   /*header*/
@@ -76,59 +75,7 @@ body {
   
   }
   
-  
-  /* Carrusel -Experiencia-hobby*/
-  .fono-icon, .front-icon, .plantas-hobby, .huerto-hobby, .graffiti-hobby, .newzeland-icon{
-    width: 200px;
-    height: 200px;
-    margin:auto;
-    padding-top: 10px;
-  }
-  .tituloprincipal-experiencia, .titulo-hobby{
-    font-family: 'Pacifico';
-    text-align: center;
-    color: #681915;
-    text-decoration: underline;
-  }
-  .card-text, .card-subttitle{
-    text-align: center;
-  }
-  .hobby-huerto, .graffity-hobby, .plant-hobby, .front1, .varios-empleos, .fono1{
-    max-width: 18rem;
-    color: #01004E;
-    border-color: #AD5B05;
-  }
-  .titulo-hobbys, .tituloprincipal-experiencia{
-  color: #400326;
-  }
-  
-  
-  /*Mujeres en Tech*/
-  #mujerestec{
-    margin: 50px;
-  }
-  
-  .tec-mujer{
-    text-align: center;
-  }
-  .mujeres-tecno{
-    width: 700px;
-    margin-top: 30px;
-  }
-  
-  .infor-mujeres{
-    color: #009C95;
-    font-family: 'Pacifico';
-    text-align: center;
-    text-decoration: underline;
-    }
-  
-    .boton-niñas{
-      text-align: center;
-      margin-top: 10px;
-    }
-  
-  /*ultimos trabajos*/
+  /*Ultimos Trabajos*/
   
   #ultimos-trabajos{
     background-color: #9D2824;
